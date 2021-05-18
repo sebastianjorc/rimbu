@@ -1,0 +1,50 @@
+.contenedor{
+    display: block;
+}
+.categoria-servicios{
+    display: table-cell;
+    width: 16%;
+    border-right: 1px solid #000;
+    border-bottom:1px solid #000;
+}
+.servicios__lista{ 
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(11,fr);
+    padding: 14px;
+    margin: 0;
+}
+.servicios__lista__elemento{
+    display: flex;
+    justify-content: left;
+    align-content: center;
+    vertical-align: middle;
+    padding: 10px 0;    
+    gap: 8px;
+}
+.servicios__checkbox{
+    transform: scale(2.5);
+    width: 45px;
+    height: auto;
+    margin: auto;
+    float: right;
+}
+.servicios__p{
+    height: auto;
+    font-size: 22px;
+    align-content: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+}
+.talleres-encontrados{
+    display: table-cell;
+    width: 24%;
+    background: #fff;
+    border-right: 1px solid #000;
+    border-bottom:1px solid #000;
+}
+.mapa{
+    display: table-cell;
+    width: 60%;
+    border-bottom:1px solid #000;
+}

@@ -1,0 +1,21 @@
+Config: Archivos de configuración de la 
+    - Archivos para la configuración de la base de datos, 
+    - Archivos de configuraciones globales del sistema
+    - Otras configuraciones.
+
+Controller: Se encargarán de :
+    - Recibir y filtrar ldatos que le llegan de las vistas.
+    - Llamar a los modelos y pasar los datos de estos a las vistas. 
+
+Core: 
+    - Clases base de las que heredarán los controladores y modelos.
+    - Librerías propias o de terceros.
+    - Núcleo del framework.
+
+Model: aquí irán los modelos, 
+    - Clase por cada tabla o entidad de la base de datos (excepto pivotes) que servirán para crear objetos
+    - Modelos de consulta a la BD que contendrán consultas más complejas que estén relacionadas con una o varias entidades.
+
+view: aquí iran las vistas, es decir, donde se imprimirán los datos y lo que verá el usuario.
+
+index.php será el controlador frontal por el que pasará absolutamente todo en la aplicación.
