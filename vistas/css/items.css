@@ -1,26 +1,85 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 0;
-    margin-left: auto;
-    margin-right: auto;
+.main-items{
+    display: flex;
+    margin-top: 10px;
 }
-nav{
-    background: #29794f;
+
+.contenedor-filtro{
+    margin-left: 5%;
+    width: 20%;
+    height: auto;
+    background: palevioletred;
+    
+
 }
-nav ul{
-    padding: 0;
-    margin: 0;
-}
-nav ul li{
-    display: inline-block;
-    padding: 10px;
-}
-nav ul li a{
+.contenedor-items{
     display: inline;
-    color: white;
-    padding: 10px;
-    text-decoration: none;
+    margin-right: 5%;
+    width: 80%;
+    height: auto;
+    background: #ECB246;
+    padding: 30px 10px;    
+    text-align: center;
 }
+.producto{
+    margin: 30px 10px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 200px;
+    
+}
+.producto__imagen-container{
+    height: 200px;    
+    width: 200px;
+    object-fit: cover;
+}
+.producto__titulo{
+    font-weight: bold;
+    font-size: 18px;
+}
+.producto__boton{
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.producto__boton__add{
+    background: #EB0008;
+    width: 100%;
+}
+.producto__imagen{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+#tabla .fila{
+    box-sizing: border-box;
+    padding: 10px 0;
+}
+#tabla .fila
+ .info{
+    box-sizing: border-box;
+    font-size: 14px;
+    display: inline-block;
+    padding-left: 20px;
+    vertical-align: top;
+    width: 273px;
+}
+#tabla .fila .info .nombre{
+    font-size: 20px;
+    font-weight: bold;
+}
+#tabla .fila .info .producto__boton{
+    padding: 20px 0 0 0;
+}
+#tabla p{
+    font-size: 24px !important;
+    text-align: center;
+    font-weight: bold;
+}
+
 .carrito{
     float: right;
 }
@@ -30,41 +89,6 @@ nav ul li a{
 .carrito-active a{
     color: black;
 }
-main{
-    align-items: center;
-    margin: 0 auto;
-    margin-left: 400px;
-    margin-top: 220px;
-    width: 900px;
-}
-.articulo{
-    display: inline-block;
-    margin: 10px;
-    vertical-align: top;
-    text-align: center;
-    width: 250px;
-}
-.articulo div{
-    padding: 5px 0;
-}
-.articulo .producto-imagen img{
-    height: 300px;    
-    width: 250px;
-    object-fit: cover;
-}
-.articulo .producto-titulo{
-    font-weight: bold;
-    font-size: 18px;
-}
-button{
-    border: 0;
-    border-radius: 5px;
-    background: #29794f;
-    color: white;
-    cursor: pointer;
-    padding: 10px;
-}
-
 #carrito-container{
     width: 400px;
     background: white;
@@ -77,39 +101,6 @@ button{
     display: none;
 }
 
-#tabla .fila{
-    box-sizing: border-box;
-    padding: 10px 0;
-}
-
-#tabla .fila .imagen{
-    display: inline-block;
-    width: 100px;
-}
-#tabla .fila
- .info{
-    box-sizing: border-box;
-    font-size: 14px;
-    display: inline-block;
-    padding-left: 20px;
-    vertical-align: top;
-    width: 273px;
-}
-
-#tabla .fila .info .nombre{
-    font-size: 20px;
-    font-weight: bold;
-}
-#tabla .fila .info .producto-botones{
-    padding: 20px 0 0 0;
-}
-
-#tabla p{
-    font-size: 24px !important;
-    text-align: center;
-    font-weight: bold;
-}
-
 #paginas ul{
     margin: 10px 0;
     padding: 0;
@@ -120,7 +111,6 @@ button{
     margin-right: auto;
     padding: 10px;
 }
-
 #paginas li a{
     background: rgb(228, 228, 228);
     border-radius: 3px;
@@ -128,7 +118,6 @@ button{
     padding: 10px 15px;
     text-decoration: none;
 }
-
 .actual{
     background: rgb(20, 69, 124) !important;
     color: rgb(255, 255, 255) !important;

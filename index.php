@@ -76,9 +76,7 @@
             </ul>
         </nav>
     </header>
-    
-
-    <main>
+        <main class="main-home">
         <aside class="sidebar">
             <div class="sidebar__barra">                
                 <ul class="sidebar__tabs">

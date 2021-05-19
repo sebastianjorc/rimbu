@@ -1,9 +1,11 @@
 <div class="producto">
     <input type="hidden" id="id" value="<?php echo $item['id'];  ?>">
-    <div class="producto-imagen"><img src="img/default.png"/></div>
-    <div class="producto-titulo"><?php echo $item['nombre'];  ?></div>
-    <div class="producto-price"><?php echo $item['precio'];  ?> CLP</div>
-    <div class="producto-botones">
-        <button class='producto-btn-add'>Agregar al carrito</button>
+    <div class="producto__imagen-container">
+        <img class="producto__imagen" src="img/default.png"/>
+    </div>
+    <div class="producto__titulo"><?php echo $item['nombre'];  ?></div>
+    <div class="producto__precio"><?php echo $item['precio'];  ?> CLP</div>
+    <div class="producto__boton">
+        <button class='producto__boton__add'>Agregar al carrito</button>
     </div>
 </div>

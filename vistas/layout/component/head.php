@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/mecanicos.css">
     <link rel="stylesheet" href="css/map.css">
-    <link rel="stylesheet" href="vistas/css/items.css">
+    <link rel="stylesheet" href="css/items.css">
     
     <script src="https://kit.fontawesome.com/351b7647d6.js" crossorigin="anonymous"></script>
     <script src="prefixfree.min.js" type="text/javascript"></script>
