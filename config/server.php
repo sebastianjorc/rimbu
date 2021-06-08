@@ -5,5 +5,5 @@
     const PASS="";
 
     const SGDB="mysql:host=".SERVER.";dbname=".DB;
-    const METHOD="AES-256-CBC"
+    const METHOD="AES-256-CBC";
 ?>

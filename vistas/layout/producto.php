@@ -1,8 +1,8 @@
 <?php
 
-include_once (__DIR__.'/../lib/db.php');
+include_once (__DIR__.'/../../config/database.php');
 
-class producto extends DB{
+class producto extends Database{
 
     private $paginaActual;
     private $totalPaginas;

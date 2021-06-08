@@ -1,10 +1,12 @@
 <?php
+    include('../config/database.php');
 
-    class productoController{
+    class productoController extends Database{
         private $productos;
 
         public function __construct()
-        {       
+        {
+            
         }          
 
         # QUERIES
