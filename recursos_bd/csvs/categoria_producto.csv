@@ -1,0 +1,18 @@
+id_categoria_producto;nombre_categoria_producto;titulo_lista_categoria_producto;url_categoria_producto;img_categoria_producto;icon_categoria_producto;vistas_categoria_producto;fecha_creacion_categoria_producto;fecha_modificacion_categoria_producto
+0;otros;;otros;otros.jpg;;;;
+1;Afinamiento y encendido;;afinamiento-y-encendido;afinamiento-y-encendido.jpg;;;;
+2;Cambio de aceite;;cambio-de-aceite;cambio-de-aceite.jpg;;;;
+3;Carrocería;;carroceria;carroceria.jpg;;;;
+4;Correa de accesorios y servicios;;correa-de-accesorios-y-servicios;correa-de-accesorios-y-servicios.jpg;;;;
+5;Distribución;;distribucion;distribucion.jpg;;;;
+6;Embrages y transmisión;;embrages-y-transmision;embrages-y-transmision.jpg;;;;
+7;Filtros;;filtros;filtros.jpg;;;;
+8;Frenos;;frenos;frenos.jpg;;;;
+9;Motor;;motor;motor.jpg;;;;
+10;Motor de partida y alternador;;motor-de-partida-y-alternador;motor-de-partida-y-alternador.jpg;;;;
+11;Refrigeración y calefacción;;refrigeracion-y-calefaccion;refrigeracion-y-calefaccion.jpg;;;;
+12;Rodamiento y retenes;;rodamiento-y-retenes;rodamiento-y-retenes.jpg;;;;
+13;Sensores y Eléctrica;;sensores-y-electrica;sensores-y-electrica.jpg;;;;
+14;Sistema de alimentación;;sistema-de-alimentacion;sistema-de-alimentacion.jpg;;;;
+15;Sistema de escape;;sistema-de-escape;sistema-de-escape.jpg;;;;
+16;Suspensión y dirección;;suspension-y-direccion;suspension-y-direccion.jpg;;;;

@@ -1,0 +1,6 @@
+id_rol;nombre_rol
+0;admin
+1;cliente
+2;proveedor
+3;mecanico
+4;repartidor

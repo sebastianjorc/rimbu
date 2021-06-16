@@ -1,0 +1,14 @@
+id_categoria_servicio;nombre_categoria_servicio;titulo_lista_categoria_servicio;url_categoria_servicio;img_categoria_servicio;icon_categoria_servicio;vistas_categoria_servicio;fecha_creacion_categoria_servicio;fecha_modificacion_categoria_servicio
+0;Otros servicios;;otros-servicios;otros-servicios.jpg;;;;
+1;Mecánica genera;;mecanica-genera;mecanica-genera.jpg;;;;
+2;Eléctricos;;electricos;electricos.jpg;;;;
+3;Lubricentros;;lubricentros;lubricentros.jpg;;;;
+4;Frenos;;frenos;frenos.jpg;;;;
+5;Vulcanización;;vulcanizacion;vulcanizacion.jpg;;;;
+6;Alineación y balance;;alineacion-y-balance;alineacion-y-balance.jpg;;;;
+7;Electrónicos;;electronicos;electronicos.jpg;;;;
+8;Pintura y carrocería;;pintura-y-carroceria;pintura-y-carroceria.jpg;;;;
+9;Mecánico diesel;;mecanico-diesel;mecanico-diesel.jpg;;;;
+10;Desabolladura;;desabolladura;desabolladura.jpg;;;;
+11;Lavado;;lavado;lavado.jpg;;;;
+12;Limpieza;;limpieza;limpieza.jpg;;;;

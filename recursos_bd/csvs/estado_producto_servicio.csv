@@ -1,0 +1,5 @@
+id_estado_producto_servicio;nombre_estado_producto_servicio
+0;eliminado
+1;activo
+2;pausado
+3;oculto

@@ -1,0 +1,17 @@
+numeracion_region;nombre_region;abreviacion_region;capital_region;fecha_creacion_region;fecha_modificacion_region
+1;Tarapacá;TA;Iquique;;
+2;Antofagasta;AN;Antofagasta;;
+3;Atacama;AT;Copiapó;;
+4;Coquimbo;CO;La Serena;;
+5;Valparaiso;VA;Valparaiso;;
+6;Libertador general Bernargo O'Higgins;OH;Rancagua;;
+7;Maule;MA;Talca;;
+8;Bío-bio;BI;Concepción;;
+9;La Araucanía;IAR;Temuco;;
+10;Los Lago;LL;Puerto Mont;;
+11;Aysén de General Carlos Ibañez del Campo;AI;Coyhaique;;
+12;Magallanes y de la Antártica chilena;MG;Punta arena;;
+13;Metropolitana de santiago;RM;Santiago;;
+14;Los rios;LR;Valdivia;;
+15;Arica y parinacota;AP;Arica;;
+16;Ñuble;NB;Chillán;;
